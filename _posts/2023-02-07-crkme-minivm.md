@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CrackMe:crckme-minivm
-date: 2023-01-31
+date: 2023-02-07
 categories: crackme 
 ---
 
